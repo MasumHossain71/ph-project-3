@@ -8,3 +8,13 @@
 .crsl img{
    width: 100px;
 }
+.panda-bg{
+   background-color: #fceae8;
+}
+.price{
+   color: #ff136f;
+}
+.crsl-btn{
+   background-image: linear-gradient(#fc5b98,#ff136f);
+   color: white;
+}
